@@ -1,5 +1,11 @@
 {
   "first_canister": {
     "ic": "cxdxd-2qaaa-aaaak-ad4ba-cai"
+  },
+  "first_project_backend": {
+    "ic": "fdcsd-dyaaa-aaaak-ad4sq-cai"
+  },
+  "first_project_frontend": {
+    "ic": "fkbz7-vqaaa-aaaak-ad4ta-cai"
   }
 }
